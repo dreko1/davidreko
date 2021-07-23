@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/davidreko/static/css/main.a617e044.chunk.css",
+    "main.js": "/davidreko/static/js/main.b623ede2.chunk.js",
+    "main.js.map": "/davidreko/static/js/main.b623ede2.chunk.js.map",
+    "runtime-main.js": "/davidreko/static/js/runtime-main.7d6bfb29.js",
+    "runtime-main.js.map": "/davidreko/static/js/runtime-main.7d6bfb29.js.map",
+    "static/js/2.2922046b.chunk.js": "/davidreko/static/js/2.2922046b.chunk.js",
+    "static/js/2.2922046b.chunk.js.map": "/davidreko/static/js/2.2922046b.chunk.js.map",
+    "static/js/3.56facc9c.chunk.js": "/davidreko/static/js/3.56facc9c.chunk.js",
+    "static/js/3.56facc9c.chunk.js.map": "/davidreko/static/js/3.56facc9c.chunk.js.map",
+    "index.html": "/davidreko/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/davidreko/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.2922046b.chunk.js.LICENSE.txt": "/davidreko/static/js/2.2922046b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/davidreko/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d6bfb29.js",
+    "static/js/2.2922046b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b623ede2.chunk.js"
+  ]
+}
