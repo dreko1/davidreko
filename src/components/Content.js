@@ -1,5 +1,6 @@
 import { makeStyles } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
+import About from './About';
 
 const useStyles = makeStyles((theme) => ({
     content: {
